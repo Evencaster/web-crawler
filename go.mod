@@ -1,5 +1,5 @@
-module github.com/Evencaster/crawler
+module github.com/Evencaster/web-crawler
 
 go 1.17
 
-require github.com/streadway/amqp v1.0.0 // indirect
+require github.com/streadway/amqp v1.0.0
