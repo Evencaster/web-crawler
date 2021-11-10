@@ -1,4 +1,4 @@
-module github.com/Evencaster/crawler
+module github.com/Evencaster/web-crawler
 
 go 1.17
 
