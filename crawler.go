@@ -1,4 +1,4 @@
-package crawler
+package webcrawler
 
 import (
 	"encoding/json"
